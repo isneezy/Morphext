@@ -1,5 +1,5 @@
 {
-  "name": "Morphext",
+  "name": "morphext",
   "version": "2.4.7",
   "description": "A simple, high-performance and cross-browser jQuery rotating / carousel plugin for text phrases powered by Animate.css.",
   "main": "Gruntfile.coffee",
@@ -22,5 +22,5 @@
     "grunt-contrib-uglify": "^2.0.0",
     "grunt-eslint": "^19.0.0"
   },
-  "private": true
+  "private": false
 }
